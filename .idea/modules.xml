@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Machine-Learning---Algo.iml" filepath="$PROJECT_DIR$/.idea/Machine-Learning---Algo.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/Hope AI/My File/Multiple Linear Regression/.idea/Multiple Linear Regression.iml" filepath="$USER_HOME$/Desktop/Hope AI/My File/Multiple Linear Regression/.idea/Multiple Linear Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiple Linear Regression/.idea/Multiple Linear Regression.iml" filepath="$PROJECT_DIR$/Multiple Linear Regression/.idea/Multiple Linear Regression.iml" />
       <module fileurl="file://$PROJECT_DIR$/Simple Linear Regression/.idea/Simple Linear Regression.iml" filepath="$PROJECT_DIR$/Simple Linear Regression/.idea/Simple Linear Regression.iml" />
     </modules>
   </component>
